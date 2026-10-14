@@ -29,7 +29,7 @@ Built for OpenWrt 25.12 (`apk`, `iptables-nft`). Other versions are untested.
 On the router (SSH, as root). Replace `<USER>/<REPO>` with this repository:
 
 ```sh
-wget -O /tmp/bypass-proxy-install.sh https://raw.githubusercontent.com/<USER>/<REPO>/main/install.sh
+wget -O /tmp/bypass-proxy-install.sh https://github.com/knoxt-l/luci-app-bypass-proxy/blob/main/install.sh
 sh /tmp/bypass-proxy-install.sh
 ```
 
