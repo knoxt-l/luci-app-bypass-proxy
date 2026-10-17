@@ -100,4 +100,4 @@ Edit the files under `src/`, then run `sh build.sh` to regenerate the self-conta
 
 ## License
 
-Add a license of your choice (for example MIT) before publishing.
+Apache-2.0 license
